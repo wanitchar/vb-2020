@@ -1,0 +1,10 @@
+D:\wanitchar\ep4-1\ep4-1\bin\Debug\ep4-1.exe.config
+D:\wanitchar\ep4-1\ep4-1\bin\Debug\ep4-1.exe
+D:\wanitchar\ep4-1\ep4-1\bin\Debug\ep4-1.pdb
+D:\wanitchar\ep4-1\ep4-1\bin\Debug\ep4-1.xml
+D:\wanitchar\ep4-1\ep4-1\obj\Debug\WindowsApplication2.Form1.resources
+D:\wanitchar\ep4-1\ep4-1\obj\Debug\WindowsApplication2.Resources.resources
+D:\wanitchar\ep4-1\ep4-1\obj\Debug\ep4-1.vbproj.GenerateResource.Cache
+D:\wanitchar\ep4-1\ep4-1\obj\Debug\ep4-1.exe
+D:\wanitchar\ep4-1\ep4-1\obj\Debug\ep4-1.xml
+D:\wanitchar\ep4-1\ep4-1\obj\Debug\ep4-1.pdb

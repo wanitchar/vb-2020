@@ -1,0 +1,10 @@
+D:\wanitchar\ep2-1\ep2-1\bin\Debug\ep2-1.exe.config
+D:\wanitchar\ep2-1\ep2-1\bin\Debug\ep2-1.exe
+D:\wanitchar\ep2-1\ep2-1\bin\Debug\ep2-1.pdb
+D:\wanitchar\ep2-1\ep2-1\bin\Debug\ep2-1.xml
+D:\wanitchar\ep2-1\ep2-1\obj\Debug\ep2.Form1.resources
+D:\wanitchar\ep2-1\ep2-1\obj\Debug\ep2.Resources.resources
+D:\wanitchar\ep2-1\ep2-1\obj\Debug\ep2-1.vbproj.GenerateResource.Cache
+D:\wanitchar\ep2-1\ep2-1\obj\Debug\ep2-1.exe
+D:\wanitchar\ep2-1\ep2-1\obj\Debug\ep2-1.xml
+D:\wanitchar\ep2-1\ep2-1\obj\Debug\ep2-1.pdb

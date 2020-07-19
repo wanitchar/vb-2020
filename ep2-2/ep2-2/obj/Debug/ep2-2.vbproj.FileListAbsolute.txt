@@ -1,0 +1,15 @@
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\bin\Debug\ep2-2.exe.config
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\bin\Debug\ep2-2.exe
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\bin\Debug\ep2-2.pdb
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\bin\Debug\ep2-2.xml
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\obj\Debug\ep2-2.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\obj\Debug\ep2_2.Form1.resources
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\obj\Debug\ep2_2.Resources.resources
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\obj\Debug\ep2-2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\obj\Debug\ep2-2.exe
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\obj\Debug\ep2-2.xml
+C:\Users\Lenovo-07\AppData\Local\Temporary Projects\ep2-2\obj\Debug\ep2-2.pdb
+D:\wanitchar\ep2-2\ep2-2\bin\Debug\ep2-2.exe.config
+D:\wanitchar\ep2-2\ep2-2\obj\Debug\ep2-2.exe
+D:\wanitchar\ep2-2\ep2-2\obj\Debug\ep2-2.xml
+D:\wanitchar\ep2-2\ep2-2\obj\Debug\ep2-2.pdb

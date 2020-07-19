@@ -1,0 +1,10 @@
+D:\wanitchar\1-1\1-1\bin\Debug\1-1.exe.config
+D:\wanitchar\1-1\1-1\bin\Debug\1-1.exe
+D:\wanitchar\1-1\1-1\bin\Debug\1-1.pdb
+D:\wanitchar\1-1\1-1\bin\Debug\1-1.xml
+D:\wanitchar\1-1\1-1\obj\Debug\wanitchar.Form1.resources
+D:\wanitchar\1-1\1-1\obj\Debug\wanitchar.Resources.resources
+D:\wanitchar\1-1\1-1\obj\Debug\1-1.vbproj.GenerateResource.Cache
+D:\wanitchar\1-1\1-1\obj\Debug\1-1.exe
+D:\wanitchar\1-1\1-1\obj\Debug\1-1.xml
+D:\wanitchar\1-1\1-1\obj\Debug\1-1.pdb
